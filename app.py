@@ -184,8 +184,11 @@ This application addresses that gap by providing a structured view of real-world
 With this dashboard, you can explore questions such as:
 
 ❓ Which modelling tools are most widely used across regions?
+
 ❓ How are different institutions applying energy models in practice?
+
 ❓ What types of evidence support these use cases?
+
 ❓ How do modelling practices vary globally?
 
 
